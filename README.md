@@ -6,7 +6,7 @@
 
 ### (2) 包括首頁, 搜索頁, 詳情頁, 購物車頁, 訂單頁, 支付頁, 用戶登入頁、註冊頁等多個子組件
 
-![GITHUB](https://github.com/AlanChuang-0710/Project_Shangpinhui_vue/blob/main/Shangpinhui%20main%20page.png)
+![GITHUB](Shangpinhui main page.png)
 
 ---
 

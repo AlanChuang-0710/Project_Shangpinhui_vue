@@ -30,6 +30,55 @@
 
 ## 注意事項
 
-### (1) API 文檔: 取自尚硅谷
+### (1) API 文檔: 取自尚硅谷，改以 Vue2 重構 html,css 並添加 JS 邏輯
 
 ### (2) 原後端接口失效，故改用 Mock.js & LocalStorage 模擬後端資料庫
+
+---
+
+## 專案目錄樹
+
+```
+.
+├─public
+│  └─images
+└─src
+    ├─api
+    ├─assets
+    ├─components
+    │  ├─Footer
+    │  ├─Header
+    │  ├─Pagination
+    │  └─TypeNav
+    ├─mock
+    ├─pages
+    │  ├─AddCartSuccess
+    │  ├─Detail
+    │  │  ├─ImageList
+    │  │  ├─images
+    │  │  └─Zoom
+    │  ├─Home
+    │  │  ├─Brand
+    │  │  ├─Floor
+    │  │  ├─Like
+    │  │  ├─ListContainer
+    │  │  ├─Rank
+    │  │  └─Recommend
+    │  ├─Login
+    │  ├─Pay
+    │  ├─PaySuccess
+    │  ├─Register
+    │  ├─Search
+    │  │  └─SearchSelector
+    │  ├─ShopCart
+    │  └─Trade
+    ├─router
+    ├─store
+    │  ├─detail
+    │  ├─home
+    │  ├─search
+    │  ├─shopcart
+    │  ├─trade
+    │  └─user
+    └─utils
+```

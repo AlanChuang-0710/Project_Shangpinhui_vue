@@ -1,24 +1,19 @@
-# shangpinhui
+# 大型電商項目-尚品匯
 
-## Project setup
-```
-npm install
-```
+## 項目簡介:
+### (1) 此項目為線上電商Web App (SPA)
+### (2) 包括首頁, 搜索頁, 詳情頁, 購物車頁, 訂單頁, 支付頁, 用戶登入/註冊頁等多個子組件
+***
+## 涉及技術:
+### (1) Vue CLI
+### (2) Vuex 
+### (3) Vue-router 
+### (4) Element UI
+### (5) Axios二次封裝
+### (6) API統一管理
+### (7) Mock.js
+***
+## 注意事項
+### (1) API文檔: 取自尚硅谷
+### (2) 原後端接口失效，故改用Mock.js & LocalStorage 模擬後端資料庫
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

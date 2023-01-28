@@ -1,0 +1,40 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": [
+    {
+      "id": 61,
+      "userId": "2",
+      "skuId": 4,
+      "cartPrice": 5999,
+      "skuNum": 4,
+      "imgUrl": "images/good1.jpg",
+      "skuName": "Apple iPhone 11 (A2223) 64GB 粉色 移動聯通電信雙卡雙待",
+      "isChecked": 1,
+      "skuPrice": 5999
+    },
+    {
+      "id": 62,
+      "userId": "2",
+      "skuId": 2,
+      "cartPrice": 7200,
+      "skuNum": 1,
+      "imgUrl": "images/good2.jpg",
+      "skuName": "Apple iPhone 14 Pro 128GB 深紫黑",
+      "isChecked": 1,
+      "skuPrice": 7200
+    },
+    {
+      "id": 63,
+      "userId": "2",
+      "skuId": 3,
+      "cartPrice": 6200,
+      "skuNum": 1,
+      "imgUrl": "images/good3.webp",
+      "skuName": "新增無線充電體驗 Sony Xperia 5 IV 6.1 吋 HDR OLED 螢幕 墨綠色",
+      "isChecked": 1,
+      "skuPrice": 6200
+    }
+  ],
+  "ok": true
+}

@@ -1,0 +1,245 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "trademarkList": [
+      {
+        "tmId": 1,
+        "tmName": "蘋果"
+      },
+      {
+        "tmId": 2,
+        "tmName": "華為"
+      },
+      {
+        "tmId": 3,
+        "tmName": "SONY"
+      },
+      {
+        "tmId": 4,
+        "tmName": "HTC"
+      },
+      {
+        "tmId": 5,
+        "tmName": "Google"
+      },
+      {
+        "tmId": 6,
+        "tmName": "ASUS"
+      }
+    ],
+    "attrsList": [
+      {
+        "attrId": 1,
+        "attrValueList": ["GSM(移動/連通2G)", "3G", "4G", "5G"],
+        "attrName": "網路格式"
+      },
+      {
+        "attrId": 2,
+        "attrValueList": ["4500-11999", "2800-4400", "3600-4000", "4400-5000"],
+        "attrName": "價格"
+      },
+      {
+        "attrId": 3,
+        "attrValueList": ["本國款", "日本款", "歐美款"],
+        "attrName": "款式"
+      },
+      {
+        "attrId": 4,
+        "attrValueList": ["IOS", "Android"],
+        "attrName": "手機系統"
+      },
+      {
+        "attrId": 5,
+        "attrValueList": [
+          "旗艦機",
+          "iPhone 14 pro",
+          "iPhone 14 Pro Max",
+          "iPhone 13",
+          "iPhone 13 mini",
+          "iPhone 福利機",
+          "iPhone SE",
+          "iPhone CP認證福利機"
+        ],
+        "attrName": "蘋果系列"
+      }
+    ],
+    "goodsList": [
+      {
+        "id": 1,
+        "defaultImg": "/images/mobile1.jpg",
+        "title": "Apple蘋果iPhone 6s (A1699)Apple蘋果iPhone 6s",
+        "price": 5499,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 1000,
+        "attrs": null
+      },
+      {
+        "id": 2,
+        "defaultImg": "/images/mobile2.jpg",
+        "title": "iPhone13 Pro max 1TB A15 仿生聯手，驅動 Face ID，帶來智慧型手機中最安全的臉部認證技術",
+        "price": 5200,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 1225,
+        "attrs": null
+      },
+      {
+        "id": 3,
+        "defaultImg": "/images/mobile3.jpg",
+        "title": "Apple iPhone 14 Plus (128G)-紫色(MQ503TA/A)A15 仿生配備 5 核心 GPU，效能表現快如閃電。超飆速 5G",
+        "price": 3600,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 1300,
+        "attrs": null
+      },
+      {
+        "id": 4,
+        "defaultImg": "/images/mobile4.jpg",
+        "title": "Apple iPhone 14 Plus (128G)-藍色(MQ523TA/A) 藍色★送保殼+玻璃保貼",
+        "price": 4200,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 1541,
+        "attrs": null
+      },
+      {
+        "id": 5,
+        "defaultImg": "/images/mobile5.jpg",
+        "title": "Apple iPhone 13 Pro Max (1TB)-松嶺青色(MND23TA/A)",
+        "price": 4000,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 668,
+        "attrs": null
+      },
+      {
+        "id": 6,
+        "defaultImg": "/images/mobile1.jpg",
+        "title": "Apple蘋果iPhone 6s (A1699)Apple蘋果iPhone 6s",
+        "price": 5499,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 1530,
+        "attrs": null
+      },
+      {
+        "id": 7,
+        "defaultImg": "/images/mobile2.jpg",
+        "title": "iPhone13 Pro max 1TB",
+        "price": 5200,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 1600,
+        "attrs": null
+      },
+      {
+        "id": 8,
+        "defaultImg": "/images/mobile3.jpg",
+        "title": "Apple iPhone 14 Plus (128G)-紫色(MQ503TA/A)A15 仿生配備 5 核心 GPU，效能表現快如閃電。超飆速 5G",
+        "price": 3600,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 850,
+        "attrs": null
+      },
+      {
+        "id": 9,
+        "defaultImg": "/images/mobile4.jpg",
+        "title": "Apple iPhone 14 Plus (128G)-藍色(MQ523TA/A) 藍色★送保殼+玻璃保貼",
+        "price": 4200,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 790,
+        "attrs": null
+      },
+      {
+        "id": 10,
+        "defaultImg": "/images/mobile5.jpg",
+        "title": "Apple iPhone 13 Pro Max (1TB)-松嶺青色(MND23TA/A)",
+        "price": 4000,
+        "createTime": null,
+        "tmId": null,
+        "tmName": null,
+        "category1Id": null,
+        "category1Name": null,
+        "category2Id": null,
+        "category2Name": null,
+        "category3Id": null,
+        "category3Name": null,
+        "hotScore": 500,
+        "attrs": null
+      }
+    ],
+    "total": 90,
+    "pageSize": 10,
+    "pageNo": 1,
+    "totalPages": 9
+  },
+  "ok": true
+}

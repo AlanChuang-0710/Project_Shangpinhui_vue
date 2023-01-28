@@ -1,0 +1,155 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "valuesSkuJson": "{\"3|5|7\":6,\"3|4|7\":2,\"2|4|7\":3,\"1|5|7\":5,\"1|4|7\":1,\"2|5|7\":4}",
+    "price": 5499,
+    "categoryView": {
+      "id": 61,
+      "category1Id": 2,
+      "category1Name": "手機",
+      "category2Id": 13,
+      "category2Name": "手機通訊",
+      "category3Id": 61,
+      "category3Name": "手機"
+    },
+    "spuSaleAttrList": [
+      {
+        "id": 1,
+        "spuId": 1,
+        "baseSaleAttrId": 1,
+        "saleAttrName": "選擇顏色",
+        "spuSaleAttrValueList": [
+          {
+            "id": 1,
+            "spuId": 1,
+            "baseSaleAttrId": 1,
+            "saleAttrValueName": "黑色",
+            "saleAttrName": "選擇顏色",
+            "isChecked": "1"
+          },
+          {
+            "id": 2,
+            "spuId": 2,
+            "baseSaleAttrId": 2,
+            "saleAttrValueName": "金色",
+            "saleAttrName": "選擇顏色",
+            "isChecked": "0"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "spuId": 1,
+        "baseSaleAttrId": 2,
+        "saleAttrName": "選擇版本",
+        "spuSaleAttrValueList": [
+          {
+            "id": 4,
+            "spuId": 1,
+            "baseSaleAttrId": 2,
+            "saleAttrValueName": "32GB",
+            "saleAttrName": "選擇版本",
+            "isChecked": "1"
+          },
+          {
+            "id": 5,
+            "spuId": 1,
+            "baseSaleAttrId": 2,
+            "saleAttrValueName": "64GB",
+            "saleAttrName": "選擇版本",
+            "isChecked": "0"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "spuId": 1,
+        "baseSaleAttrId": 3,
+        "saleAttrName": "選擇套裝",
+        "spuSaleAttrValueList": [
+          {
+            "id": 7,
+            "spuId": 1,
+            "baseSaleAttrId": 3,
+            "saleAttrValueName": " 官方標配",
+            "saleAttrName": "選擇套裝",
+            "isChecked": "1"
+          }
+        ]
+      }
+    ],
+    "skuInfo": {
+      "id": 2,
+      "spuId": 1,
+      "price": 5499,
+      "skuName": "Apple iPhone 11 (A2223) 64GB 粉色 移動聯通電信雙卡雙待",
+      "skuDesc": "主體\n入網型號\nA2223\n品牌\nApple\n產品名稱\niPhone 11\n上市年份\n2019年\n上市月份\n9月\n基本資訊\n機身顏色\n紅色\n機身長度（mm）\n150.9\n機身重量（g）\n194\n機身材質工藝\n以官網資訊為准",
+      "weight": "0.47",
+      "tmId": 1,
+      "category3Id": 61,
+      "skuDefaultImg": "/images/s1.png",
+      "isSale": 1,
+      "skuImageList": [
+        {
+          "id": 1,
+          "skuId": 2,
+          "imgName": "63e862164165f483.jpg",
+          "imgUrl": "/images/s1.png",
+          "spuImgId": 2,
+          "isDefault": "0"
+        },
+        {
+          "id": 2,
+          "skuId": 2,
+          "imgName": "63e862164165f484.jpg",
+          "imgUrl": "/images/s2.png",
+          "spuImgId": 2,
+          "isDefault": "0"
+        },
+        {
+          "id": 3,
+          "skuId": 2,
+          "imgName": "63e862164165f483.jpg",
+          "imgUrl": "/images/s3.png",
+          "spuImgId": 2,
+          "isDefault": "0"
+        },
+        {
+          "id": 4,
+          "skuId": 2,
+          "imgName": "63e862164165f483.jpg",
+          "imgUrl": "/images/s1.png",
+          "spuImgId": 2,
+          "isDefault": "0"
+        },
+        {
+          "id": 5,
+          "skuId": 2,
+          "imgName": "63e862164165f483.jpg",
+          "imgUrl": "/images/s2.png",
+          "spuImgId": 2,
+          "isDefault": "0"
+        },
+        {
+          "id": 6,
+          "skuId": 2,
+          "imgName": "63e862164165f483.jpg",
+          "imgUrl": "/images/s3.png",
+          "spuImgId": 2,
+          "isDefault": "0"
+        }
+      ],
+      "skuAttrValueList": [
+        {
+          "id": 6,
+          "attrId": 1,
+          "valueId": 6,
+          "skuId": 2
+        }
+      ],
+      "skuSaleAttrValueList": null
+    }
+  },
+  "ok": true
+}
